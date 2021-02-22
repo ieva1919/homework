@@ -1,2 +1,4 @@
 /.idea/
 /homework.iml
+node_modules
+dist
